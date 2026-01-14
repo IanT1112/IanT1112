@@ -46,8 +46,8 @@ No solo entreno modelos — construyo **sistemas inteligentes que funcionan en e
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IanT1112&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IanT1112&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://stats-gh.vercel.app/api?username=IanT1112&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://stats-gh.vercel.app/api/top-langs/?username=IanT1112&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
