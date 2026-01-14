@@ -43,16 +43,20 @@ No solo entreno modelos — construyo **sistemas inteligentes que funcionan en e
 
 ---
 
-## 📊 Estadísticas de GitHub
+<table>
+<tr>
 
-<p align="center">
-<img src="https://stats-gh.vercel.app/api?username=IanT1112&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://stats-gh.vercel.app/api/top-langs/?username=IanT1112&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<td align="center" width="50%">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IanT1112&layout=compact&theme=tokyonight"/>
+</td>
 
-<p align="center">
+<td align="center" width="50%">
 <img src="https://streak-stats.demolab.com/?user=IanT1112&theme=tokyonight&hide_border=true"/>
-</p>
+</td>
+
+</tr>
+</table>
+
 
 ---
 
