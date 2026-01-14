@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy David Tapia (IanT1112)</h1>
+<h1 align="center">Hola, soy Ian Tapia</h1>
 <h3 align="center">Ingeniero de Sistemas e Inteligencia Artificial | Cloud & AI Engineer en formación</h3>
 
 <p align="center">
