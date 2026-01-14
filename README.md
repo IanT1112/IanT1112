@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 Sobre mí
+## 👤 Sobre mí
 
 Soy estudiante de **Ingeniería de Sistemas e Inteligencia Artificial** enfocado en crear **sistemas de IA reales, listos para producción**.
 
