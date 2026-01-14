@@ -23,15 +23,6 @@ No solo entreno modelos — construyo **sistemas inteligentes que funcionan en e
 
 ---
 
-## ⚡ En qué estoy trabajando
-
-- Plataformas empresariales de **conocimiento con IA**
-- **Pipelines de IA en la nube** (entrenamiento → despliegue → monitoreo)
-- **Agentes inteligentes (LLMs)**
-- Soluciones de IA para **fintech y banca**
-
----
-
 ## 🛠️ Stack tecnológico
 
 ### 🧠 Inteligencia Artificial
