@@ -1,9 +1,9 @@
-<h1 align="center">Hola, soy Ian Tapia</h1>
-<h3 align="center">Ingeniero de Sistemas e Inteligencia Artificial | Cloud & AI Engineer en formación</h3>
+<h1 align="center">Soy Ian Tapia</h1>
+<h3 align="center">Estudiante de Ingeniería de Sistemas e Inteligencia Artificial | Junior Cloud & AI Developer</h3>
 
 <p align="center">
-☁️ AWS • Azure • Inteligencia Artificial • Arquitectura Cloud  
-🤖 Sistemas con IA • LLMs • Automatización  
+☁️ AWS • Azure • Inteligencia Artificial  
+🤖 APIs • Automatización • LLMs (básico)  
 📍 Perú
 </p>
 
@@ -11,54 +11,47 @@
 
 ## 👤 Sobre mí
 
-Soy estudiante de **Ingeniería de Sistemas e Inteligencia Artificial** enfocado en crear **sistemas de IA reales, listos para producción**.
+Soy estudiante de **Ingeniería de Sistemas e Inteligencia Artificial**, con interés en el desarrollo de **aplicaciones con IA** y **servicios en la nube**.
 
-Diseño y desarrollo:
-- 🧠 Aplicaciones con **Inteligencia Artificial Generativa**
-- ☁️ Sistemas de **IA desplegados en la nube (AWS y Azure)**
-- 🏦 Soluciones de IA para **empresas y bancos**
-- 🔄 Pipelines completos desde el modelo hasta producción
+He trabajado en **proyectos académicos, laboratorios prácticos y pruebas de concepto**, donde he aplicado conceptos de **cloud, backend e inteligencia artificial**.
 
-No solo entreno modelos — construyo **sistemas inteligentes que funcionan en el mundo real**.
+Actualmente me encuentro fortaleciendo mi perfil como **desarrollador junior**, enfocado en aprender cómo llevar soluciones desde el código hasta un entorno cloud básico.
 
 ---
 
-## 🛠️ Stack tecnológico
+## 🔧 Experiencia y prácticas
 
-### 🧠 Inteligencia Artificial
-- Python, PyTorch, TensorFlow
-- OpenAI, Amazon Bedrock, Azure OpenAI
-- RAG (búsqueda con vectores)
-- Prompt Engineering y Agentes de IA
-
-### ☁️ Cloud & DevOps
-- AWS (Bedrock, Lambda, EC2, S3)
-- Azure (AI Studio, App Services, Functions)
-- Docker, GitHub Actions, CI/CD
-
-### 🌐 Backend y Frontend
-- FastAPI, Node.js
-- React, Next.js
-- APIs REST y APIs con IA
+- 🧠 Desarrollo de **pruebas de concepto con IA generativa** (resúmenes y preguntas sobre texto)
+- ☁️ Uso de **AWS y Azure** en laboratorios académicos (storage, servicios de IA, despliegue básico)
+- 🧪 Creación de **APIs REST con FastAPI**
+- 📄 Procesamiento básico de documentos (PDFs y texto) para análisis
+- 🔄 Automatizaciones simples con Python
+- 👥 **Coordinación de equipo académico** en un proyecto de modelado de procesos y validación de requisitos
 
 ---
 
-<table>
-<tr>
+## 🛠️ Tecnologías
 
-<td align="center" width="50%">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IanT1112&layout=compact&theme=tokyonight"/>
-</td>
+### Inteligencia Artificial
+- Python
+- Uso básico de LLMs vía API (OpenAI / Azure OpenAI / Bedrock)
+- Conceptos iniciales de embeddings y RAG
+- Prompt engineering básico
 
-<td align="center" width="50%">
-<img src="https://streak-stats.demolab.com/?user=IanT1112&theme=tokyonight&hide_border=true"/>
-</td>
+### Cloud
+- AWS: S3, Lambda (laboratorios)
+- Azure: Blob Storage, Azure AI Studio (laboratorios)
+- Conceptos de despliegue en la nube
 
-</tr>
-</table>
-
+### Backend
+- FastAPI
+- Node.js (básico)
+- APIs REST
 
 ---
+
+> 🎯 *Busco oportunidades como practicante o desarrollador junior para seguir creciendo en Cloud e Inteligencia Artificial.*
+
 
 ## 🌍 Contacto
 
