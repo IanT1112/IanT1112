@@ -22,10 +22,8 @@ Actualmente me encuentro fortaleciendo mi perfil como **desarrollador junior**, 
 ## 🔧 Experiencia y prácticas
 
 - 🧠 Desarrollo de **pruebas de concepto con IA generativa** (resúmenes y preguntas sobre texto)
-- ☁️ Uso de **AWS y Azure** en laboratorios académicos (storage, servicios de IA, despliegue básico)
-- 🧪 Creación de **APIs REST con FastAPI**
+- ☁️ Uso de **AWS, Azure y GCP** en laboratorios académicos (storage, servicios de IA, despliegue básico)
 - 📄 Procesamiento básico de documentos (PDFs y texto) para análisis
-- 🔄 Automatizaciones simples con Python
 - 👥 **Coordinación de equipo académico** en un proyecto de modelado de procesos y validación de requisitos
 
 ---
@@ -36,7 +34,7 @@ Actualmente me encuentro fortaleciendo mi perfil como **desarrollador junior**, 
 - Python
 - Uso básico de LLMs vía API (OpenAI / Azure OpenAI / Bedrock)
 - Conceptos iniciales de embeddings y RAG
-- Prompt engineering básico
+- Prompt engineering 
 
 ### Cloud
 - AWS: S3, Lambda (laboratorios)
@@ -44,7 +42,6 @@ Actualmente me encuentro fortaleciendo mi perfil como **desarrollador junior**, 
 - Conceptos de despliegue en la nube
 
 ### Backend
-- FastAPI
 - Node.js (básico)
 - APIs REST
 
