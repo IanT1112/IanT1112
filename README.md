@@ -11,11 +11,11 @@
 
 ## 👤 Sobre mí
 
-Soy estudiante de **Ingeniería de Sistemas e Inteligencia Artificial**, con interés en el desarrollo de **aplicaciones con IA** y **servicios en la nube**.
+Estudiante de Ingeniería de Sistemas e Inteligencia Artificial, actualmente trabajando en proyectos académicos con Python, servicios cloud (AWS y Google Cloud) y modelos básicos de IA. Me interesa desarrollar soluciones relacionadas con datos, computación en la nube e inteligencia artificial, y busco colaborar en proyectos estudiantiles o para principiantes dentro de estas áreas.
 
-He trabajado en **proyectos académicos, laboratorios prácticos y pruebas de concepto**, donde he aplicado conceptos de **cloud, backend e inteligencia artificial**.
+Actualmente estoy aprendiendo IA generativa, Amazon Bedrock, RAG y fundamentos de cloud computing, mientras refuerzo mis conocimientos en Python, laboratorios de redes (VLSM, Packet Tracer) y primeros pasos con AWS. También busco mejorar mis habilidades en proyectos reales de IA y arquitecturas cloud.
 
-Actualmente me encuentro fortaleciendo mi perfil como **desarrollador junior**, enfocado en aprender cómo llevar soluciones desde el código hasta un entorno cloud básico.
+Me gusta convertir temas técnicos complejos en proyectos simples, siempre manteniéndome en constante aprendizaje y crecimiento.
 
 ---
 
