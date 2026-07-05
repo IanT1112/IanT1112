@@ -1,5 +1,5 @@
 <h1 align="center">Ian Tapia</h1>
-<h3 align="center">Estudiante de Ingeniería de Sistemas e Inteligencia Artificial | Junior Cloud & AI Developer</h3>
+<h3 align="center">Estudiante de Ingeniería de Sistemas e Inteligencia Artificial</h3>
 
 <p align="center">
 humildad
