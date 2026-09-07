@@ -8,4 +8,4 @@ humildad
 ## 🌍 Contacto
 
 - 💼 LinkedIn: *https://www.linkedin.com/in/ian-tapia-144736210/*  
-- 🌐 Portafolio: *https://ian-tapia.vercel.app/*  
+- 🌐 Portafolio: *https://iantapia.xyz*  
